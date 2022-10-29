@@ -10,4 +10,4 @@ To setup and run this app
 - Run the app using the comand "flask run"
 
 ## Deployed project
-Deployed project can be found [here](jimi.theupfolio.com)
+Deployed project can be found [here](https://jimi.theupfolio.com)
